@@ -1,0 +1,5 @@
+{
+  "name": "Sudanese Phrase Gen",
+  "description": "A generator for Sudanese Arabic phrases focusing on daily life, sales, and casual conversation, powered by Gemini.",
+  "requestFramePermissions": []
+}
